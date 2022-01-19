@@ -1,5 +1,4 @@
-# first-repo
-This is my first Repository.
+
 <bean id="sessionFactory" class="org.springframework.orm.hibernate4.LocalSessionFactoryBean">
 		
 		<property name="dataSource" ref="d"/>
